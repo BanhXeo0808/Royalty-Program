@@ -1,5 +1,5 @@
 # Royalty-Program
-# Young's Market Loyalty (Web App)
+# Store Loyalty (Web App)
 
 Simple in-store loyalty program for Young's Market.  
 Customers check in on a tablet by entering their phone number, and staff manage points and redemptions on a separate staff screen.
